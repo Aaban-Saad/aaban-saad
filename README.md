@@ -104,9 +104,9 @@
 </p>
 
 <p align="center">
-   <img width=390
-      src="https://github-readme-stats.vercel.app/api?username=aaban-saad&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"><br>
-   <img width=390
+   <img height=180
+      src="https://github-readme-stats.vercel.app/api?username=aaban-saad&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+   <img height=180
       src="https://github-readme-streak-stats.herokuapp.com/?user=aaban-saad&theme=tokyonight&hide_border=true"><br>
    <img width=390
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaban-saad&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
