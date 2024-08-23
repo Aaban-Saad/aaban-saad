@@ -1,9 +1,7 @@
-<h1 align="center">👋 I'm Aaban Saad</h1>
+<h1 align="center">👋, I'm Aaban Saad</h1>
 <h3 align="center">From North South University, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaban-saad&label=Profile%20views&color=0e75b6&style=flat" alt="aaban-saad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaban-saad" alt="aaban-saad" /></a> </p>
 
 - 📫 How to reach me **aabansaad@gmail.com**
 
